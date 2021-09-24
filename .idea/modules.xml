@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" filepath="$PROJECT_DIR$/.idea/modules/Cinema_Room_Manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Printing a magic letter/Cinema_Room_Manager.Topics-Printing_data-Printing_a_magic_letter.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Cinema_Room_Manager.Topics-Printing_data-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Cinema_Room_Manager.util.test.iml" />
+    </modules>
+  </component>
+</project>
